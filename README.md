@@ -1,6 +1,6 @@
 # Hello there!
 
-<h3>我是<b>H.S.S. - 寒沙</b><h3>
+<h3>我是 <b>H.S.S. - 寒沙</b> （HACKERSam2011的新号） <h3>
 
 ### 来自 *HACKERSam Studios*
 
