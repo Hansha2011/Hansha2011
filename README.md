@@ -25,7 +25,7 @@
 
 [![X](https://img.shields.io/badge/HSS_HACKERSam-000000?style=flat-square&logo=X&logoColor=ffffff)](https://x.com/HSS_HACKERSam)
 
-[![Mastodon](https://img.shields.io/badge/NANOFONT_HSS-000000?style=flat-square&logo=Mastodon&logoColor=ffffff)](https://mastodon.social/@nanofont_hss)
+[![Mastodon](https://img.shields.io/badge/NANOFONT_HSS-4B0082?style=flat-square&logo=Mastodon&logoColor=ffffff)](https://mastodon.social/@nanofont_hss)
 
 ### 使用系统
 
