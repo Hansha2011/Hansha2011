@@ -20,11 +20,8 @@
 ### 关注我
 
 [![哔哩哔哩](https://img.shields.io/badge/NANOFONT%20HSS-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/1914355599)
-
 [![Youtube](https://img.shields.io/badge/F_HSS-ff0000?style=flat-square&logo=Youtube&logoColor=ffffff)](https://www.youtube.com/@F_HSS)
-
 [![X](https://img.shields.io/badge/HSS_HACKERSam-000000?style=flat-square&logo=X&logoColor=ffffff)](https://x.com/HSS_HACKERSam)
-
 [![Mastodon](https://img.shields.io/badge/NANOFONT_HSS-4B0082?style=flat-square&logo=Mastodon&logoColor=ffffff)](https://mastodon.social/@nanofont_hss)
 
 ### 使用系统
