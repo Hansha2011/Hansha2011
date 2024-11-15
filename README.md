@@ -24,6 +24,7 @@
 [![X](https://img.shields.io/badge/HSS_HACKERSam-000000?style=flat-square&logo=X&logoColor=ffffff)](https://x.com/HSS_HACKERSam)
 [![Mastodon](https://img.shields.io/badge/NANOFONT_HSS-4B0082?style=flat-square&logo=Mastodon&logoColor=ffffff)](https://mastodon.social/@nanofont_hss)
 [![Reddit](https://img.shields.io/badge/Hansha2011-FF8247?style=flat-square&logo=Reddit&logoColor=ffffff)](https://www.reddit.com/user/hansha2011/)
+[![ItchIo](https://img.shields.io/badge/Hansha2011-FF6A6A?style=flat-square&logo=itch.io&logoColor=ffffff)](https://hansha2011.itch.io/)
 
 ### 使用系统
 
