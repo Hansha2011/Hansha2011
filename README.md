@@ -28,7 +28,7 @@
 
 ### 使用系统
 [![Windows 3](https://img.shields.io/badge/Windows%203-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
-[![Windows XP](https://img.shields.io/badge/Windows%200-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
+[![Windows XP](https://img.shields.io/badge/Windows%20XP-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Windows 7](https://img.shields.io/badge/Windows%207-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Windows 8](https://img.shields.io/badge/Windows%208-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
