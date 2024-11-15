@@ -11,7 +11,7 @@
 > 合作列表
 > |名称|联系方式|内容|
 > |-|-|-|
-> |不务正业的小鸡(Cod'dte)|QQ: **3126479747**|[花馆宋体](https://github.com/buwuzhengyedexiaoji/huaguansongti)|
+> |不务正业的小鸡(Cod'dte)|QQ: **3126479747**|[花馆宋体](https://github.com/buwuzhengyedexiaoji/huaguansongti) / 纳米COTFL黑|
 
 
 ### 邮箱
