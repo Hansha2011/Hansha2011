@@ -1,6 +1,6 @@
 ![NFLOGO](NANOFONT.png)
 <div align=center>
-<h1>Make by perfect of once</h1>
+<h1>Make by perfect</h1>
 </div>
 
 <h3>我是 <b>H.S.S. - 寒沙</b> （HACKERSam2011的新号） <h3>
