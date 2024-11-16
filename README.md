@@ -1,4 +1,7 @@
-# Hello there!
+![NFLOGO](NANOFONT.png)
+<div align=center>
+<h1>Make by perfect of once</h1>
+</div>
 
 <h3>我是 <b>H.S.S. - 寒沙</b> （HACKERSam2011的新号） <h3>
 
@@ -55,12 +58,10 @@
 > 如果我制造的成品中，有错误的地方，请尽快联系，以解决相关问题
 
 <!--
-更新于2024/11/3
+更新于2024/11/16
 
 还有
 你来这里看源码干什么
 Get out of here
 -->
 
-
-## 我们的誓言：*make perfect~ | 追求完美*
