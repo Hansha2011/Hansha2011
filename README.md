@@ -45,6 +45,11 @@
 
 
 --------
+
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Hansha2011&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
+
+
+--------
 > [!WARNING]
 >
 > 1.商业合作不接任何打印、文章、书籍、检错字等其他的无关工作
