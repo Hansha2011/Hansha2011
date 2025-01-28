@@ -28,18 +28,11 @@
 [![ItchIo](https://img.shields.io/badge/Hansha2011-FF6A6A?style=flat-square&logo=itch.io&logoColor=ffffff)](https://hansha2011.itch.io/)
 
 ### 使用系统
-[![Windows 3](https://img.shields.io/badge/Windows%203-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
-[![Windows XP](https://img.shields.io/badge/Windows%20XP-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Windows 7](https://img.shields.io/badge/Windows%207-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
-[![Windows 8](https://img.shields.io/badge/Windows%208-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)](#)
-[![iOS](https://img.shields.io/badge/iOS-8A2BE2)](#)
-[![UCDOS](https://img.shields.io/badge/UCDOS-FF0000)](#)
-[![CCDOS](https://img.shields.io/badge/CCDOS-FF0000)](#)
-[![PCDOS](https://img.shields.io/badge/PCDOS-FF0000)](#)
-[![MSDOS](https://img.shields.io/badge/MSDOS-FF0000)](#)
+[![iOS](https://img.shields.io/badge/iOS-8A2BE2?style=flat-square&logo=iOS&logoColor=FFFFFF)](#)
 
 
 --------
