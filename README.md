@@ -1,20 +1,18 @@
 ![NFLOGO](NANOFONT.png)
 <div align=center>
-<h1>Make by perfect</h1>
+<h1>纳米之字，言语所赐</h1>
 </div>
 
 <h3>我是 <b>H.S.S. - 寒沙</b> （HACKERSam2011的新号） <h3>
 
-### 来自 *HACKERSam Studios*
+### 字体制作者一位
 
-### 主要工作是：做字体、研究汉字、制作人造语言等……
-
-### 商业合作、其他合作：*3582930858@qq.com* (备用: hackersam2011@gmail.com)
+### 商业合作、其他合作及联系：*3582930858@qq.com* (备用: hackersam2011@gmail.com)
 --------
 > 合作列表
 > |名称|联系方式|内容|
 > |-|-|-|
-> |不务正业的小鸡(Cod'dte)|QQ: **3126479747**|[花馆宋体](https://github.com/buwuzhengyedexiaoji/huaguansongti) / 纳米COTFL黑|
+> |不务正业的小鸡(Cod'dte)|QQ: **3126479747**|[江坡宋体](https://github.com/buwuzhengyedexiaoji/huaguansongti) / 纳米COTFL黑|
 
 
 ### 邮箱
