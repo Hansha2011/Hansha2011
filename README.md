@@ -14,7 +14,6 @@
 > |-|-|-|
 > |不务正业的小鸡(Cod'dte)|QQ: **3126479747**|[江坡宋体](https://github.com/buwuzhengyedexiaoji/huaguansongti) / 纳米COTFL黑|
 
-
 ### 邮箱
 [![](https://img.shields.io/badge/3582930858-%40qq.com-royalblue?style=flat-square&logoColor=f25060)](mailto:3582930858@qq.com)
 
@@ -26,14 +25,12 @@
 [![Mastodon](https://img.shields.io/badge/NANOFONT_HSS-4B0082?style=flat-square&logo=Mastodon&logoColor=ffffff)](https://mastodon.social/@nanofont_hss)
 [![Reddit](https://img.shields.io/badge/Hansha2011-FF8247?style=flat-square&logo=Reddit&logoColor=ffffff)](https://www.reddit.com/user/hansha2011/)
 [![ItchIo](https://img.shields.io/badge/Hansha2011-FF6A6A?style=flat-square&logo=itch.io&logoColor=ffffff)](https://hansha2011.itch.io/)
-
+[![ZSFT](https://img.shields.io/badge/ZeoSevenFonT-NANOFONT-00adef?style=flat-square&logoColor=ffffff)](#)
 ### 使用系统
 [![Windows 7](https://img.shields.io/badge/Windows%207-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)](#)
-[![iOS](https://img.shields.io/badge/iOS-8A2BE2?style=flat-square&logo=iOS&logoColor=FFFFFF)](#)
-
 
 --------
 
