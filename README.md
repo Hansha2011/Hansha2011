@@ -18,7 +18,7 @@
 ### 邮箱
 [![](https://img.shields.io/badge/3582930858-%40qq.com-royalblue?style=flat-square&logoColor=f25060)](mailto:3582930858@qq.com)
 
-### 关注我
+### 关注链接
 
 [![哔哩哔哩](https://img.shields.io/badge/NANOFONT%20HSS-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/1914355599)
 [![Youtube](https://img.shields.io/badge/F_HSS-ff0000?style=flat-square&logo=Youtube&logoColor=ffffff)](https://www.youtube.com/@F_HSS)
@@ -39,7 +39,7 @@
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Hansha2011&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
-
+<!--
 --------
 > [!WARNING]
 >
@@ -52,12 +52,8 @@
 > [!IMPORTANT]
 >
 > 如果我制造的成品中，有错误的地方，请尽快联系，以解决相关问题
-
-<!--
-更新于2024/11/16
-
-还有
-你来这里看源码干什么
-Get out of here
 -->
 
+
+<!--
+-->
