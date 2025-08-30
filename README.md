@@ -7,13 +7,16 @@
   大家人好！ 我是<i>寒沙</i>
 </h3>
 
-### *10后*（2011）字体制作者一位
+### *10后*字体制作者一位
 
 ### 合作及联系：*3582930858@qq.com*
+-----------------
 
-### 邮箱
-[![](https://img.shields.io/badge/3582930858-%40qq.com-royalblue?style=flat-square&logoColor=f25060)](mailto:3582930858@qq.com)
+### 链接
+[![1](https://img.shields.io/badge/爱发电-c749e7?style=flat-square&logo=afdian&logoColor=FFFFFF)](https://afdian.com/a/_NANOFONT_)
+[![2](https://img.shields.io/badge/3582930858-%40qq.com-royalblue?style=flat-square&logoColor=f25060)](mailto:3582930858@qq.com)
 
+欢迎大家人走来围观！uwu
 --------
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Hansha2011&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
