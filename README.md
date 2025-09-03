@@ -12,6 +12,12 @@
 ### 合作及联系：*3582930858@qq.com*
 -----------------
 
+> [!IMPORTANT]
+>
+> 请不要一直催我更新字体，本人最近正在上学，很少更新的了，周末和节假日到时候会更的！
+>
+> 请各位别急 owo
+
 ### 链接
 [![1](https://img.shields.io/badge/爱发电-c749e7?style=flat-square&logo=afdian&logoColor=FFFFFF)](https://afdian.com/a/_NANOFONT_)
 [![2](https://img.shields.io/badge/3582930858-%40qq.com-royalblue?style=flat-square&logoColor=f25060)](mailto:3582930858@qq.com)
